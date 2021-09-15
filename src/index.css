@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap");
 
 * {
   margin: 0;
@@ -14,33 +14,32 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
 }
 
 .container {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
 }
 
-.container .valid-keys{
+.container .valid-keys {
   font-size: 10rem;
   font-weight: bold;
   min-width: 600px;
   border-bottom: solid 2px #fff;
 }
 
-.container .valid-keys .matched{
+.container .valid-keys .matched {
   background-color: #fdf8c5;
   color: #282c34;
 }
 
-.container .valid-keys .remainder{
+.container .valid-keys .remainder {
   opacity: 0.5;
 }
 
@@ -63,4 +62,4 @@ body {
   font-size: 1.3rem;
   width: 600px;
   overflow: hidden;
-} 
+}
