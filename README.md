@@ -4,4 +4,4 @@ Este projeto foi desenvolvido na [Maratona JS 3](https://js.emersonbroga.com/mar
 
 ## Descrição do Projeto
 
-Este projeto consiste em um site feito com React e NodeJs onde o usuário pode treinar sua habilidade de digitação.
+Este projeto consiste em um site feito com React, onde o usuário pode treinar sua habilidade de digitação.
